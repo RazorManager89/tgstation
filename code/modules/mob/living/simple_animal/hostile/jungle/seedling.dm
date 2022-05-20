@@ -236,6 +236,10 @@
 		return
 	return ..()
 
+/mob/living/simple_animal/hostile/jungle/seedling/add_cell_sample()
+	. = ..()
+	AddElement(/datum/element/swabable, CELL_LINE_TABLE_SEEDLING, CELL_VIRUS_TABLE_GENERIC_MOB, 1, 5)
+
 #undef SEEDLING_STATE_NEUTRAL
 #undef SEEDLING_STATE_WARMUP
 #undef SEEDLING_STATE_ACTIVE

@@ -691,4 +691,31 @@
 
 	resulting_atoms = list(/mob/living/simple_animal/hostile/jungle/mega_arachnid = 1)
 
+/datum/micro_organism/cell_line/seedling
+	desc = "volatile parenchyma cells"
+	required_reagents = list(
+		/datum/reagent/consumable/nutriment/protein,
+		/datum/reagent/toxin/mutagen,
+		/datum/reagent/cellulose,
+		/datum/reagent/plantnutriment/robustharvestnutriment,
+		/datum/reagent/growthserum)
+
+	supplementary_reagents = list(
+		/datum/reagent/ammonia = 4,
+		/datum/reagent/consumable/nutriment/peptides = 3,
+		/datum/reagent/consumable/nutraslop = 2,
+		/datum/reagent/consumable/nutriment/vitamin = 1,
+		/datum/reagent/toxin/plasma = 1,
+		/datum/reagent/consumable/nutriment/organ_tissue = 1,
+		/datum/reagent/liquidgibs = 1,
+		/datum/reagent/yuck = 1,
+		/datum/reagent/consumable/enzyme = 1)
+
+	suppressive_reagents = list(
+		/datum/reagent/toxin/plantbgone = -8,
+		/datum/reagent/drug/nicotine = -2,
+		/datum/reagent/toxin/acid = -2)
+
+	resulting_atoms = list(/mob/living/simple_animal/hostile/jungle/seedling = 1)
+
 #undef VAT_GROWTH_RATE
