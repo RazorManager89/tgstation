@@ -542,3 +542,64 @@
 
 /area/ruin/space/has_grav/spinwardsmoothies
 	name = "Spinward Smoothies"
+
+// !!! SHOTARO'S EDITS! DO NOT PR TO TGSTATION !!!
+/area/ruin/space/has_grav/haruyamahq
+	name= "\improper Haruyama Real Estate Headquarters"
+
+/area/ruin/space/has_grav/haruyamahq/dock
+	name= "Haruyama Real Estate Dock"
+
+/area/ruin/space/has_grav/haruyamahq/diningarea
+	name= "Haruyama Real Estate Dining Area"
+
+/area/ruin/space/has_grav/haruyamahq/kitchen
+	name= "Haruyama Real Estate Kitchen"
+
+/area/ruin/space/has_grav/haruyamahq/guest_dorms
+	name= "Haruyama Real Estate Guest Dormitories"
+
+/area/ruin/space/has_grav/haruyamahq/guest_bathrooms
+	name= "Haruyama Real Estate Guest Bathrooms"
+
+/area/ruin/space/has_grav/haruyamahq/lobby
+	name= "Haruyama Real Estate Private Lobby"
+
+/area/ruin/space/has_grav/haruyamahq/lobby_bathroom_m
+	name= "Haruyama Real Estate Private Man's Bathroom"
+
+/area/ruin/space/has_grav/haruyamahq/lobby_bathroom_f
+	name= "Haruyama Real Estate Private Woman's Bahtroom"
+
+/area/ruin/space/has_grav/haruyamahq/office
+	name= "Haruyama Real Estate Office"
+
+/area/ruin/space/has_grav/haruyamahq/antique_vault
+	name= "Haruyama Real Estate Antique Vault"
+
+/area/ruin/space/has_grav/haruyamahq/antique_armory
+	name= "Haruyama Real Estate Antique Armory"
+
+/area/ruin/space/has_grav/haruyamahq/family_dorms_hall
+	name= "Haruyama Real Estate Family Dormitories Hallway"
+
+/area/ruin/space/has_grav/haruyamahq/shotaro_dormitory
+	name= "Haruyama Real Estate Shotaro's Room"
+
+/area/ruin/space/has_grav/haruyamahq/kiyoka_dormitory
+	name= "Haruyama Real Estate Kiyoka's Room"
+
+/area/ruin/space/has_grav/haruyamahq/yuki_dormitory
+	name= "Haruyama Real Estate Yuki's Room"
+
+/area/ruin/space/has_grav/haruyamahq/port_starboard_hallway
+	name= "Haruyama Real Estate Port Starboard Hallway"
+
+/area/ruin/space/has_grav/haruyamahq/pool
+	name= "Haruyama Real Estate Swimming Pool"
+
+/area/ruin/space/has_grav/haruyamahq/fore_solars
+	name= "Haruyama Real Estate Fore Solars"
+
+/area/ruin/space/has_grav/haruyamahq/starboard_solars
+	name= "Haruyama Real Estate Starboard Solars"
